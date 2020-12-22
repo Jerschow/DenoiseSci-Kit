@@ -1,8 +1,6 @@
-test/private
 data
-denoise/private
-denoised
-setup/private
 .ipynb_checkpoints
 test
 notes.txt
+__pychache__
+denoised_image_extened.h5
